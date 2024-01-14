@@ -1,0 +1,79 @@
+{
+  "status": true,
+  "message": "Success",
+  "timestamp": 1702896583411,
+  "data": [
+    {
+      "id": "tt0499549",
+      "qid": "movie",
+      "title": "Avatar",
+      "year": 2009,
+      "stars": "Sam Worthington, Zoe Saldana",
+      "q": "feature",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+    },
+    {
+      "id": "tt1630029",
+      "qid": "movie",
+      "title": "Avatar: The Way of Water",
+      "year": 2022,
+      "stars": "Sam Worthington, Zoe Saldana",
+      "q": "feature",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_.jpg"
+    },
+    {
+      "id": "tt0417299",
+      "qid": "tvSeries",
+      "title": "Avatar: The Last Airbender",
+      "year": 2005,
+      "stars": "Dee Bradley Baker, Zach Tyler Eisen",
+      "q": "TV series",
+      "image": "https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_.jpg"
+    },
+    {
+      "id": "tt9018736",
+      "qid": "tvSeries",
+      "title": "Avatar: The Last Airbender",
+      "year": 2024,
+      "stars": "Tamlyn Tomita, Daniel Dae Kim",
+      "q": "TV series",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzZhYTVlMTMtMGZhMC00ZWYxLTljZDQtN2Y3YmFmZTk5OWU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "id": "tt1757678",
+      "qid": "movie",
+      "title": "Avatar 3",
+      "year": 2025,
+      "stars": "Zoe Saldana, David Thewlis",
+      "q": "feature",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmM1NmY4N2QtNmVkOS00MjMyLWI5ZGUtYWYxMDRjY2MzNDdiXkEyXkFqcGdeQXVyMTAwMDAwMA@@._V1_.jpg"
+    },
+    {
+      "id": "tt5637536",
+      "qid": "movie",
+      "title": "Avatar 5",
+      "year": 2031,
+      "stars": "Zoe Saldana, Michelle Yeoh",
+      "q": "feature",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmM1NmY4N2QtNmVkOS00MjMyLWI5ZGUtYWYxMDRjY2MzNDdiXkEyXkFqcGdeQXVyMTAwMDAwMA@@._V1_.jpg"
+    },
+    {
+      "id": "tt3095356",
+      "qid": "movie",
+      "title": "Avatar 4",
+      "year": 2029,
+      "stars": "Zoe Saldana, Michelle Yeoh",
+      "q": "feature",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmM1NmY4N2QtNmVkOS00MjMyLWI5ZGUtYWYxMDRjY2MzNDdiXkEyXkFqcGdeQXVyMTAwMDAwMA@@._V1_.jpg"
+    },
+    {
+      "id": "tt18259538",
+      "qid": "movie",
+      "title": "Avatar the Last Airbender: Echoes and Aftershocks",
+      "year": 2025,
+      "stars": "Jessica Matten, Nicanor Mendoza III",
+      "q": "feature",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTMxOTFkMDgtYTRhZi00NGMxLWFiZDQtNzQ3YWM5YzEwYjk0XkEyXkFqcGdeQXVyMTUzNjk5NDY2._V1_.jpg"
+    }
+  ]
+}
