@@ -30,12 +30,10 @@ const HomeBox = () => {
         <span>Inspired by True Events</span>
       </div>
       <div className="flex items-center justify-start gap-4  w-full">
-        <Link to="/movie" className="md:w-11/12 w-full">
-          <button className="bg-white rounded-md text-black p-3 font-semibold w-full hover:cursor-pointer hover:scale-105 transition-all duration-500">
-            <i className="fa-solid fa-play fa-sm mx-2 "></i>
-            Subscribe to Watch
-          </button>
-        </Link>
+        <button className="bg-white rounded-md text-black p-3 font-semibold w-full hover:cursor-pointer hover:scale-105 transition-all duration-500">
+          <i className="fa-solid fa-play fa-sm mx-2 "></i>
+          Subscribe to Watch
+        </button>
         <button className="bg-slate-400 rounded-md p-2 w-1/12 hover:cursor-pointer hover:scale-105 transition-all duration-500 border-2 border-white md:block hidden">
           <i className="fa-solid fa-plus fa-sm "></i>
         </button>
